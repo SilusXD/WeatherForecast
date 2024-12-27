@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Weather Forecast</string>
+    <string name="city">City</string>
+    <string name="temperature">Temperature</string>
+    <string name="date">Date</string>
+    <string name="two_day_forecast">Two-day forecast</string>
 </resources>
